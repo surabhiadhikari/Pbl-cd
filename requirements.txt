@@ -1,0 +1,4 @@
+tkinter>=8.6
+pytest>=7.0.0
+colorama>=0.4.6
+pygments>=2.15.0 
